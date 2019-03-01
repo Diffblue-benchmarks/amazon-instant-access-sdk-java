@@ -82,6 +82,6 @@ phases:
 units:
   - target:
     - dir: target/classes
-      file: com/amazon/dtasdk/utils/BinaryUtils.class
+      file: com/amazon/dtasdk/utils/HttpUtils.class
       sourceDir: src/main/java
-      sourceFile: com/amazon/dtasdk/utils/BinaryUtils.java
+      sourceFile: com/amazon/dtasdk/utils/HttpUtils.java
